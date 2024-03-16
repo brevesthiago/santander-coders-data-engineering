@@ -6,7 +6,7 @@ Este repositório contém os projetos desenvolvidos durante o programa Santander
 
 ## Estrutura do Repositório
 
-- **modulo1-python:** Este diretório contém os projeto desenvolvido durante o primeiro módulo do programa, que abrange os fundamentos de Python.
+- **modulo1-python:** Este diretório contém o projeto desenvolvido durante o primeiro módulo do programa, que abrange os fundamentos de Python.
 - **modulo2-banco-de-dados** 
 - **modulo3-tecnicas-de-programaçao** 
 - **modulo4-extraçao-de-dados**
